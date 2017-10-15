@@ -1,4 +1,4 @@
-#HuehnerPI - HKS_Huehnerklappensteuerung#
+#HuehnerPI - HKS_Huehnerklappensteuerung
 
 Wir sind eine kleine Gruppe von Lehrlingen die in der Ausbildung mit dem Raspberry-Pi arbeiten.  
 Unser Ausbildungsleiter gab uns eines Tages die Aufgabe eine Hühnerklappe bzw. deren Steuerung zu entwerfen, zu programmieren und zu entwickeln. 
