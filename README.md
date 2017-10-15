@@ -15,14 +15,14 @@ Die Beta-Version der HKS wurde mit einem RPi 3 Model B Rev1.2 getestet.
 Alle aufgelisteten Teile dienen als Beispiele und gelten nicht unbedingt als Kaufempfehlung beim verlinkten Shop. 
      
      
-Funktionsumfang Beta-Version:    
+## Funktionsumfang Beta-Version:    
     
-Manuelles Auf- und Zu fahren 
-Manuelles Stoppen 
-Manuelles Herunterfahren des Rpi 
-8-12V Spannungsversorgung (z.B über Autobatterie) bzw. über Steckernetzteil 230V 
-Motorschutzsteuerung über Zeitvariable 
-Zeitautomatik per crontab (Auf Lichtsensor wurde absichtlich verzichtet) 
-App-Steuerung (Auf, Zu, Halt, Shutdown) 
-Mailservice (Statusinfo über Motorstörung und Klappenzustand) 
-Optionales Display (wurde für Ausstellungszwecke verwendet)
+Manuelles Auf- und Zu fahren.   
+Manuelles Stoppen.   
+Manuelles Herunterfahren des Rpi.   
+8-12V Spannungsversorgung (z.B über Autobatterie) bzw. über Steckernetzteil 230V.   
+Motorschutzsteuerung über Zeitvariable.   
+Zeitautomatik per crontab (Auf Lichtsensor wurde absichtlich verzichtet).   
+App-Steuerung (Auf, Zu, Halt, Shutdown).   
+Mailservice (Statusinfo über Motorstörung und Klappenzustand).   
+Optionales Display (wurde für Ausstellungszwecke verwendet).   
